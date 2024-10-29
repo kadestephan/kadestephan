@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kadestephan
-- 🌱 I’m currently learning about operating systems
+- 🌱 I’m currently learning about software engineering
 - 😄 Pronouns: he/him
 
 <!---
